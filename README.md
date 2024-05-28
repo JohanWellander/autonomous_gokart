@@ -8,8 +8,7 @@ Attention: To download and train [data and the model](https://huggingface.co/dat
 [ Link to the github repo](https://github.com/infotiv-research/autonomous_platform)
 
 ```bash
-$ git clone --recurse-submodules http://gitlab.infotivlab.se/internal-development/autonomous_platform.git # Internally
-$ git clone --recurse-submodules https://github.com/infotiv-research/autonomous_platform
+$ git clone --recursive https://github.com/JohanWellander/autonomous_gokart.git
 ```
 
 ![low level overview](Images/3d-low.gif)
